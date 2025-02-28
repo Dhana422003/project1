@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <title>Basic HTML Tags</title>
+</head>
+<body>
+    <h1><center>BASIC HTML TAGS</center></h1>
+    <h2>HEADING TAGS</h2>
+    <h1>H1-Hello World</h1>
+    <h2>H2-Hello Wrold</h2>
+    <h3>H3-Hello World</h3>
+    <h4>H4-Hello World</h4>
+    <h5>H5-Hello World</h5>
+    <h6>H6-Hello World</h6>
+    <h1><center>BREAK & PARAGRAPH TAG</center></h1>
+    <p>HTML stands for Hypertext Markup language</p><br>
+    <p>HTML was developed by Tim Berners Lee</p><br>
+    <h1><center>HORIZONTAL RULE TAG</center></h1></hr>
+    <h1><center>PRESERVE FORMATTING TAG</center></h1>
+    <pre> function testFunction( strText ){
+        alert (strText)
+     }</pre>
+     <h1><center>NON-BREAKING SPACE TAG</center></h1>
+     <p>The term HTML was developed in the year&nbsp;1991</p><br>
+     <h1>LISTING TAGS</h1>
+     <h2>Unordered listing<br>
+    Ordered listing<br>
+</h2>
+<h2>Unordered list</h2>
+<ul style="disc">
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ul>
+<h2>Ordered list</h2>
+<ol style="a">
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ol>
+
+
+</body>
+</html>
